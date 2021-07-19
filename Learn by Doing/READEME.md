@@ -1,5 +1,6 @@
 Learn by Doing App
 
-Learned the logic from Robert Petras, SWIFTUI MASTERCLASS
+Learned from Robert Petras at SWIFTUI MASTERCLASS
+
 Website: https://swiftuimasterclass.com
 Twitter: https://twitter.com/robertpetras
